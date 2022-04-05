@@ -1,1 +1,2 @@
 # Rock-Paper-Scissors
+This repo contains model that I build using Tensorflow/Keras to predict "rock", "paper", "scissor" from an image of a hand. Using datasets of "rock", "paper", "scissor" from (dicoding.com) and using Keras' sequential Neural Network to build the model. Data split into training and validation set, the model succesfully achieved maximum 0.94 accuracy by using the validation dataset.
